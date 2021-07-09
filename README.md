@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @R533-Code
 - 👀 I’m interested in Music and Coding
 - 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 R533-Code/R533-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
